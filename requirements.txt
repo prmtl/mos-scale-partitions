@@ -1,0 +1,2 @@
+# fork of fuel_agent that allows to do only partitioning
+-e git://github.com/prmtl/fuel-agent.git@detach_from_nailgun#egg=fuel_agent
